@@ -39,6 +39,10 @@ nav ul .btn{
     margin-left: 346px;
     font-weight: 600px;
     font-size: 16px;
+    cursor: pointer;
+}
+nav ul .btn:hover{
+    background-color: aqua;
 }
 
 #banner{
@@ -57,6 +61,10 @@ nav ul .btn{
     border: none;
     margin-top: 115.5px;
     margin-bottom: 16px;
+    cursor: pointer;
+}
+#banner .banner-container #btn1:hover{
+    color: aqua;
 }
 #banner .banner-container h1{
     font-size: 72px;
@@ -84,6 +92,10 @@ nav ul .btn{
     font-weight: 600px;
     font-size: 16px;
     margin-right: 16px;
+    cursor: pointer;
+}
+#btn2:hover{
+    color: aqua;
 }
 #btn3{
     background-color: transparent;
@@ -94,6 +106,10 @@ nav ul .btn{
     font-weight: 600px;
     font-size: 16px;
     margin-bottom: 175px;
+    cursor: pointer;
+}
+#btn3:hover{
+    color: aqua;
 }
 #notes{
     text-align: center;
